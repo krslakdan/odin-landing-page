@@ -146,8 +146,15 @@ body {
   padding: 16px;
 }
 
-.hero {
+.hero,
+.footer {
   background-color: #1f2937;
+}
+
+.footer {
+  color: #e5e7eb;
+  text-align: center;
+  padding: 40px;
 }
 
 .logo {
