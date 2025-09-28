@@ -50,16 +50,21 @@ body {
   padding: 100px 0;
 }
 
+.quote .container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.quote h3 {
+  text-align: right;
+}
+
 .quote p {
   font-size: 36px;
   color: #1f2937;
   font-weight: 300;
   width: 800px;
   margin: auto;
-}
-
-.quote h3 {
-  margin-left: 1000px;
 }
 
 .information {
